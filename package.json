@@ -1,0 +1,31 @@
+{
+  "name": "hovorovskyi.com",
+  "version": "1.0.0",
+  "description": "Serhii's website",
+  "main": "index.js",
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start",
+    "lint": "next lint"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sereezha/hovorovskyi.com.git"
+  },
+  "author": "Serhii Hovorovskyi",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/sereezha/hovorovskyi.com/issues"
+  },
+  "dependencies": {
+    "next": "^12.1.6",
+    "react": "^18.1.0",
+    "react-dom": "^18.1.0"
+  },
+  "devDependencies": {
+    "eslint": "^8.16.0",
+    "eslint-config-next": "^12.1.6",
+    "eslint-plugin-jsx-a11y": "^6.5.1"
+  }
+}
